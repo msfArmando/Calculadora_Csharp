@@ -1,0 +1,16 @@
+﻿calculadora básica
+
+OK - No console, faça um menu, onde irá ter as 4 operações para o usuário escolher.
+
+O projeto deverá conter uma classe Operações, com 4 métodos adição/subtração/multiplicação/divisão, 
+retornando ou o total ou uma mensagem concatenada com o total da operação, ex (se o usuário escolheu o menu de adição) “o resultado da ADIÇÃO foi x” 
+
+OBS:
+OK -o menu deve conter um loop para ele poder realizar várias operações sem precisar fechar (desligar a calculadora e ligar novamente) o projeto, 
+ e uma rota de saída (desligar calculadora)
+OK -Use try catch para tratar as exceções.  
+OK -se atentar as regras de boas praticas
+OK -fazer o máximo orientado a objeto 
+
+fazer validação logo no começo quando pede a operação
+
